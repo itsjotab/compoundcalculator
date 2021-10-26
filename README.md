@@ -1,2 +1,2 @@
-# compoundcalculator
+# Compound-Calculator
 first compound calculator
